@@ -1,0 +1,65 @@
+.wrapper{
+    background-color: white;
+    width: 1260px;
+    height: 1100px;
+ }
+ .header{
+    border: 1px solid;
+    width: 1370px;
+    height: 100px;
+    background-color: white;
+ }
+ .home{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 550px;
+    margin-top: 35px;
+    
+ }
+ .type{
+    text-decoration: none;
+ }
+ .bbc{
+    height: 56px;
+    width: 500px;
+    margin-left: 99px;
+    margin-top: -50px;
+ }
+
+.img{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 60px;
+    margin-left: 99px;
+}
+.card{
+    width: 300px;
+    background-color: white;
+
+}
+.title{
+    color: red;
+}
+.footer{
+    margin-top: 60;
+    background-color: rgb(215, 242, 250);
+    width: 1370px;
+    height: 280px;
+    position: relative;
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    margin-left: 99px;
+    position: absolute;
+    top: 20px;
+}
+.flex{
+    margin-top: 10px;
+}
